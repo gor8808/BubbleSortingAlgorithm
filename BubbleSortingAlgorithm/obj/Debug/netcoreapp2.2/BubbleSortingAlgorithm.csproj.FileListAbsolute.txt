@@ -1,0 +1,11 @@
+C:\Users\Dell\Desktop\Gor\C#\MIC\BubbleSortingAlgorithm\BubbleSortingAlgorithm\bin\Debug\netcoreapp2.2\BubbleSortingAlgorithm.deps.json
+C:\Users\Dell\Desktop\Gor\C#\MIC\BubbleSortingAlgorithm\BubbleSortingAlgorithm\bin\Debug\netcoreapp2.2\BubbleSortingAlgorithm.runtimeconfig.json
+C:\Users\Dell\Desktop\Gor\C#\MIC\BubbleSortingAlgorithm\BubbleSortingAlgorithm\bin\Debug\netcoreapp2.2\BubbleSortingAlgorithm.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\Gor\C#\MIC\BubbleSortingAlgorithm\BubbleSortingAlgorithm\bin\Debug\netcoreapp2.2\BubbleSortingAlgorithm.dll
+C:\Users\Dell\Desktop\Gor\C#\MIC\BubbleSortingAlgorithm\BubbleSortingAlgorithm\bin\Debug\netcoreapp2.2\BubbleSortingAlgorithm.pdb
+C:\Users\Dell\Desktop\Gor\C#\MIC\BubbleSortingAlgorithm\BubbleSortingAlgorithm\obj\Debug\netcoreapp2.2\BubbleSortingAlgorithm.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\BubbleSortingAlgorithm\BubbleSortingAlgorithm\obj\Debug\netcoreapp2.2\BubbleSortingAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\BubbleSortingAlgorithm\BubbleSortingAlgorithm\obj\Debug\netcoreapp2.2\BubbleSortingAlgorithm.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\BubbleSortingAlgorithm\BubbleSortingAlgorithm\obj\Debug\netcoreapp2.2\BubbleSortingAlgorithm.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Gor\C#\MIC\BubbleSortingAlgorithm\BubbleSortingAlgorithm\obj\Debug\netcoreapp2.2\BubbleSortingAlgorithm.dll
+C:\Users\Dell\Desktop\Gor\C#\MIC\BubbleSortingAlgorithm\BubbleSortingAlgorithm\obj\Debug\netcoreapp2.2\BubbleSortingAlgorithm.pdb
